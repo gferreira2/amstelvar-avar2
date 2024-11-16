@@ -214,6 +214,8 @@ Variation axes in AmstelvarA2
 - `wdth` Width
 - `XTSP` Proportional spacing
 - `XOPQ` General x opaque
+- `YOPQ` General y opaque
+- `XTRA` General x transparent
 - `XSHA` General x horizontal serifs
 - `YSHA` General y horizontal serifs
 - `XSVA` General x vertical serifs
@@ -225,8 +227,12 @@ Variation axes in AmstelvarA2
 - `XOUC` X stem uppercase
 - `XOLC` X stem lowercase
 - `XOFI` X stem figures
-- `XTRA` General x transparent
-- `YOPQ` General y opaque
+- `YOUC` Y stem uppercase
+- `YOLC` Y stem lowercase
+- `YOFI` Y stem figures
+- `XTUC` X transparent uppercase
+- `XTLC` X transparent lowercase
+- `XTFI` X transparent figures
 - `YTUC` Y transparent uppercase
 - `YTLC` Y transparent lowercase
 - `YTAS` Y transparent ascender
