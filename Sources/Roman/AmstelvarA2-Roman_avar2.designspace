@@ -12,6 +12,8 @@
     <axis tag="YSHA" name="YSHA" minimum="0" maximum="150" default="50"/>
     <axis tag="XSVA" name="XSVA" minimum="0" maximum="131" default="55"/>
     <axis tag="YSVA" name="YSVA" minimum="59" maximum="306" default="115"/>
+    <axis tag="XVAA" name="XVAA" minimum="0" maximum="42" default="18"/>
+    <axis tag="YHAA" name="YHAA" minimum="0" maximum="68" default="18"/>
     <axis tag="GRAD" name="GRAD" minimum="-300" maximum="500" default="0"/>
     <axis tag="XOUC" name="XOUC" minimum="4" maximum="310" default="90"/>
     <axis tag="XOLC" name="XOLC" minimum="4" maximum="293" default="85"/>
@@ -46,6 +48,9 @@
     <axis tag="WDSP" name="WDSP" minimum="0" maximum="1000" default="320"/>
     <axis tag="XDOT" name="XDOT" minimum="23" maximum="274" default="144"/>
     <axis tag="YTEQ" name="YTEQ" minimum="141" maximum="208" default="141"/>
+    <axis tag="XVAU" name="XVAU" minimum="0" maximum="42" default="18"/>
+    <axis tag="YHAU" name="YHAU" minimum="0" maximum="68" default="18"/>
+    <axis tag="YHAL" name="YHAL" minimum="0" maximum="42" default="18"/>
     <axis tag="BARS" name="BARS" minimum="0" maximum="100" default="100"/>
     <mappings>
       <mapping>
@@ -84,6 +89,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="267"/>
           <dimension name="YTEQ" xvalue="194"/>
+          <dimension name="XVAU" xvalue="54"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -123,6 +131,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="267"/>
           <dimension name="YTEQ" xvalue="186"/>
+          <dimension name="XVAU" xvalue="60"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -162,6 +173,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="100"/>
           <dimension name="YTEQ" xvalue="193"/>
+          <dimension name="XVAU" xvalue="50"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -201,6 +215,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="256"/>
           <dimension name="YTEQ" xvalue="186"/>
+          <dimension name="XVAU" xvalue="40"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -240,6 +257,9 @@
           <dimension name="YTOS" xvalue="13"/>
           <dimension name="WDSP" xvalue="198"/>
           <dimension name="YTEQ" xvalue="238"/>
+          <dimension name="XVAU" xvalue="44"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -280,6 +300,9 @@
           <dimension name="YTOS" xvalue="13"/>
           <dimension name="WDSP" xvalue="225"/>
           <dimension name="YTEQ" xvalue="180"/>
+          <dimension name="XVAU" xvalue="60"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -320,6 +343,9 @@
           <dimension name="YTOS" xvalue="9"/>
           <dimension name="WDSP" xvalue="156"/>
           <dimension name="YTEQ" xvalue="307"/>
+          <dimension name="XVAU" xvalue="50"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -360,6 +386,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="278"/>
           <dimension name="YTEQ" xvalue="181"/>
+          <dimension name="XVAU" xvalue="50"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -400,6 +429,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="122"/>
           <dimension name="YTEQ" xvalue="186"/>
+          <dimension name="XVAU" xvalue="34"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -438,6 +470,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="316"/>
           <dimension name="YTEQ" xvalue="145"/>
+          <dimension name="XVAU" xvalue="20"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -476,6 +511,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="294"/>
           <dimension name="YTEQ" xvalue="167"/>
+          <dimension name="XVAU" xvalue="36"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -514,6 +552,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="YTEQ" xvalue="130"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -552,6 +593,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="270"/>
           <dimension name="YTEQ" xvalue="190"/>
+          <dimension name="XVAU" xvalue="52"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -591,6 +635,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="YTEQ" xvalue="124"/>
+          <dimension name="XVAU" xvalue="24"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -630,6 +677,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="152"/>
           <dimension name="YTEQ" xvalue="160"/>
+          <dimension name="XVAU" xvalue="12"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -669,6 +719,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="256"/>
           <dimension name="YTEQ" xvalue="140"/>
+          <dimension name="XVAU" xvalue="22"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -708,6 +761,9 @@
           <dimension name="YTOS" xvalue="14"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="YTEQ" xvalue="144"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -748,6 +804,9 @@
           <dimension name="YTOS" xvalue="14"/>
           <dimension name="WDSP" xvalue="310"/>
           <dimension name="YTEQ" xvalue="138"/>
+          <dimension name="XVAU" xvalue="24"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -788,6 +847,9 @@
           <dimension name="YTOS" xvalue="14"/>
           <dimension name="WDSP" xvalue="240"/>
           <dimension name="YTEQ" xvalue="224"/>
+          <dimension name="XVAU" xvalue="12"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -828,6 +890,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="256"/>
           <dimension name="YTEQ" xvalue="142"/>
+          <dimension name="XVAU" xvalue="28"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -868,6 +933,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="160"/>
           <dimension name="YTEQ" xvalue="140"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -906,6 +974,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="YTEQ" xvalue="136"/>
+          <dimension name="XVAU" xvalue="24"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -944,6 +1015,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="152"/>
           <dimension name="YTEQ" xvalue="140"/>
+          <dimension name="XVAU" xvalue="12"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -982,6 +1056,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="256"/>
           <dimension name="YTEQ" xvalue="152"/>
+          <dimension name="XVAU" xvalue="22"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -1020,6 +1097,9 @@
           <dimension name="YTOS" xvalue="14"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="YTEQ" xvalue="155"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -1059,6 +1139,9 @@
           <dimension name="YTOS" xvalue="14"/>
           <dimension name="WDSP" xvalue="250"/>
           <dimension name="YTEQ" xvalue="150"/>
+          <dimension name="XVAU" xvalue="24"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -1098,6 +1181,9 @@
           <dimension name="YTOS" xvalue="14"/>
           <dimension name="WDSP" xvalue="150"/>
           <dimension name="YTEQ" xvalue="234"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -1137,6 +1223,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="256"/>
           <dimension name="YTEQ" xvalue="146"/>
+          <dimension name="XVAU" xvalue="24"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -1176,6 +1265,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="105"/>
           <dimension name="YTEQ" xvalue="151"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="14"/>
         </output>
       </mapping>
       <mapping>
@@ -1214,6 +1306,9 @@
           <dimension name="YTOS" xvalue="10"/>
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
         </output>
       </mapping>
       <mapping>
@@ -1254,6 +1349,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1296,6 +1394,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1338,6 +1439,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1380,6 +1484,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1422,6 +1529,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1464,6 +1574,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1506,6 +1619,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1548,6 +1664,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1590,6 +1709,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1632,6 +1754,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1674,6 +1799,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1716,6 +1844,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1758,6 +1889,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1800,6 +1934,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1842,6 +1979,9 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1884,6 +2024,189 @@
           <dimension name="WDSP" xvalue="320"/>
           <dimension name="XDOT" xvalue="144"/>
           <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
+          <dimension name="GRAD" xvalue="0"/>
+          <dimension name="BARS" xvalue="100"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="XVAA" xvalue="0"/>
+        </input>
+        <output>
+          <dimension name="XOUC" xvalue="90"/>
+          <dimension name="XOLC" xvalue="85"/>
+          <dimension name="XOFI" xvalue="88"/>
+          <dimension name="YOUC" xvalue="66"/>
+          <dimension name="YOLC" xvalue="72"/>
+          <dimension name="YOFI" xvalue="56"/>
+          <dimension name="XTUC" xvalue="400"/>
+          <dimension name="XTLC" xvalue="243"/>
+          <dimension name="XTFI" xvalue="329"/>
+          <dimension name="YTUC" xvalue="750"/>
+          <dimension name="YTLC" xvalue="511"/>
+          <dimension name="YTAS" xvalue="767"/>
+          <dimension name="YTDE" xvalue="-240"/>
+          <dimension name="YTFI" xvalue="771"/>
+          <dimension name="XSHU" xvalue="104"/>
+          <dimension name="YSHU" xvalue="50"/>
+          <dimension name="XSVU" xvalue="55"/>
+          <dimension name="YSVU" xvalue="174"/>
+          <dimension name="XSHL" xvalue="74"/>
+          <dimension name="YSHL" xvalue="40"/>
+          <dimension name="XSVL" xvalue="48"/>
+          <dimension name="YSVL" xvalue="176"/>
+          <dimension name="XSHF" xvalue="129"/>
+          <dimension name="YSHF" xvalue="47"/>
+          <dimension name="XSVF" xvalue="61"/>
+          <dimension name="YSVF" xvalue="201"/>
+          <dimension name="XTTW" xvalue="5"/>
+          <dimension name="YTTL" xvalue="57"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="XUCS" xvalue="145"/>
+          <dimension name="WDSP" xvalue="320"/>
+          <dimension name="XDOT" xvalue="144"/>
+          <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="0"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
+          <dimension name="GRAD" xvalue="0"/>
+          <dimension name="BARS" xvalue="100"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="XVAA" xvalue="42"/>
+        </input>
+        <output>
+          <dimension name="XOUC" xvalue="90"/>
+          <dimension name="XOLC" xvalue="85"/>
+          <dimension name="XOFI" xvalue="88"/>
+          <dimension name="YOUC" xvalue="66"/>
+          <dimension name="YOLC" xvalue="72"/>
+          <dimension name="YOFI" xvalue="56"/>
+          <dimension name="XTUC" xvalue="400"/>
+          <dimension name="XTLC" xvalue="243"/>
+          <dimension name="XTFI" xvalue="329"/>
+          <dimension name="YTUC" xvalue="750"/>
+          <dimension name="YTLC" xvalue="511"/>
+          <dimension name="YTAS" xvalue="767"/>
+          <dimension name="YTDE" xvalue="-240"/>
+          <dimension name="YTFI" xvalue="771"/>
+          <dimension name="XSHU" xvalue="104"/>
+          <dimension name="YSHU" xvalue="50"/>
+          <dimension name="XSVU" xvalue="55"/>
+          <dimension name="YSVU" xvalue="174"/>
+          <dimension name="XSHL" xvalue="74"/>
+          <dimension name="YSHL" xvalue="40"/>
+          <dimension name="XSVL" xvalue="48"/>
+          <dimension name="YSVL" xvalue="176"/>
+          <dimension name="XSHF" xvalue="129"/>
+          <dimension name="YSHF" xvalue="47"/>
+          <dimension name="XSVF" xvalue="61"/>
+          <dimension name="YSVF" xvalue="201"/>
+          <dimension name="XTTW" xvalue="5"/>
+          <dimension name="YTTL" xvalue="57"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="XUCS" xvalue="145"/>
+          <dimension name="WDSP" xvalue="320"/>
+          <dimension name="XDOT" xvalue="144"/>
+          <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="42"/>
+          <dimension name="YHAU" xvalue="18"/>
+          <dimension name="YHAL" xvalue="18"/>
+          <dimension name="GRAD" xvalue="0"/>
+          <dimension name="BARS" xvalue="100"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="YHAA" xvalue="0"/>
+        </input>
+        <output>
+          <dimension name="XOUC" xvalue="90"/>
+          <dimension name="XOLC" xvalue="85"/>
+          <dimension name="XOFI" xvalue="88"/>
+          <dimension name="YOUC" xvalue="66"/>
+          <dimension name="YOLC" xvalue="72"/>
+          <dimension name="YOFI" xvalue="56"/>
+          <dimension name="XTUC" xvalue="400"/>
+          <dimension name="XTLC" xvalue="243"/>
+          <dimension name="XTFI" xvalue="329"/>
+          <dimension name="YTUC" xvalue="750"/>
+          <dimension name="YTLC" xvalue="511"/>
+          <dimension name="YTAS" xvalue="767"/>
+          <dimension name="YTDE" xvalue="-240"/>
+          <dimension name="YTFI" xvalue="771"/>
+          <dimension name="XSHU" xvalue="104"/>
+          <dimension name="YSHU" xvalue="50"/>
+          <dimension name="XSVU" xvalue="55"/>
+          <dimension name="YSVU" xvalue="174"/>
+          <dimension name="XSHL" xvalue="74"/>
+          <dimension name="YSHL" xvalue="40"/>
+          <dimension name="XSVL" xvalue="48"/>
+          <dimension name="YSVL" xvalue="176"/>
+          <dimension name="XSHF" xvalue="129"/>
+          <dimension name="YSHF" xvalue="47"/>
+          <dimension name="XSVF" xvalue="61"/>
+          <dimension name="YSVF" xvalue="201"/>
+          <dimension name="XTTW" xvalue="5"/>
+          <dimension name="YTTL" xvalue="57"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="XUCS" xvalue="145"/>
+          <dimension name="WDSP" xvalue="320"/>
+          <dimension name="XDOT" xvalue="144"/>
+          <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="0"/>
+          <dimension name="YHAL" xvalue="0"/>
+          <dimension name="GRAD" xvalue="0"/>
+          <dimension name="BARS" xvalue="100"/>
+        </output>
+      </mapping>
+      <mapping>
+        <input>
+          <dimension name="YHAA" xvalue="68"/>
+        </input>
+        <output>
+          <dimension name="XOUC" xvalue="90"/>
+          <dimension name="XOLC" xvalue="85"/>
+          <dimension name="XOFI" xvalue="88"/>
+          <dimension name="YOUC" xvalue="66"/>
+          <dimension name="YOLC" xvalue="72"/>
+          <dimension name="YOFI" xvalue="56"/>
+          <dimension name="XTUC" xvalue="400"/>
+          <dimension name="XTLC" xvalue="243"/>
+          <dimension name="XTFI" xvalue="329"/>
+          <dimension name="YTUC" xvalue="750"/>
+          <dimension name="YTLC" xvalue="511"/>
+          <dimension name="YTAS" xvalue="767"/>
+          <dimension name="YTDE" xvalue="-240"/>
+          <dimension name="YTFI" xvalue="771"/>
+          <dimension name="XSHU" xvalue="104"/>
+          <dimension name="YSHU" xvalue="50"/>
+          <dimension name="XSVU" xvalue="55"/>
+          <dimension name="YSVU" xvalue="174"/>
+          <dimension name="XSHL" xvalue="74"/>
+          <dimension name="YSHL" xvalue="40"/>
+          <dimension name="XSVL" xvalue="48"/>
+          <dimension name="YSVL" xvalue="176"/>
+          <dimension name="XSHF" xvalue="129"/>
+          <dimension name="YSHF" xvalue="47"/>
+          <dimension name="XSVF" xvalue="61"/>
+          <dimension name="YSVF" xvalue="201"/>
+          <dimension name="XTTW" xvalue="5"/>
+          <dimension name="YTTL" xvalue="57"/>
+          <dimension name="YTOS" xvalue="10"/>
+          <dimension name="XUCS" xvalue="145"/>
+          <dimension name="WDSP" xvalue="320"/>
+          <dimension name="XDOT" xvalue="144"/>
+          <dimension name="YTEQ" xvalue="141"/>
+          <dimension name="XVAU" xvalue="18"/>
+          <dimension name="YHAU" xvalue="68"/>
+          <dimension name="YHAL" xvalue="42"/>
           <dimension name="GRAD" xvalue="0"/>
           <dimension name="BARS" xvalue="100"/>
         </output>
@@ -1927,6 +2250,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -1966,6 +2292,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2005,6 +2334,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2044,6 +2376,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="0"/>
       </location>
     </source>
@@ -2083,6 +2418,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2122,6 +2460,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2161,6 +2502,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2200,6 +2544,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2239,6 +2586,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2278,6 +2628,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2317,6 +2670,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2356,6 +2712,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2395,6 +2754,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2434,6 +2796,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2473,6 +2838,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2512,6 +2880,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2551,6 +2922,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2590,6 +2964,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2629,6 +3006,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2668,6 +3048,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2707,6 +3090,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2746,6 +3132,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2785,6 +3174,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2824,6 +3216,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2863,6 +3258,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2902,6 +3300,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2941,6 +3342,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -2980,6 +3384,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3019,6 +3426,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3058,6 +3468,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3097,6 +3510,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3136,6 +3552,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3175,6 +3594,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3214,6 +3636,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3253,6 +3678,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3292,6 +3720,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3331,6 +3762,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3370,6 +3804,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3409,6 +3846,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3448,6 +3888,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3487,6 +3930,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3526,6 +3972,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3565,6 +4014,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3604,6 +4056,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3643,6 +4098,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3682,6 +4140,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3721,6 +4182,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3760,6 +4224,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3799,6 +4266,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3838,6 +4308,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3877,6 +4350,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3916,6 +4392,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3955,6 +4434,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -3994,6 +4476,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4033,6 +4518,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4072,6 +4560,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4111,6 +4602,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4150,6 +4644,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4189,6 +4686,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4228,6 +4728,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4267,6 +4770,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4306,6 +4812,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4345,6 +4854,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4384,6 +4896,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4423,6 +4938,9 @@
         <dimension name="WDSP" xvalue="0"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4462,6 +4980,9 @@
         <dimension name="WDSP" xvalue="1000"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4501,6 +5022,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="23"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4540,6 +5064,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="274"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4579,6 +5106,261 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="208"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Roman_XVAU0.ufo" familyname="AmstelvarA2 Roman" stylename="XVAU0">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="0"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Roman_XVAU42.ufo" familyname="AmstelvarA2 Roman" stylename="XVAU42">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="42"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Roman_YHAU0.ufo" familyname="AmstelvarA2 Roman" stylename="YHAU0">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="0"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Roman_YHAU68.ufo" familyname="AmstelvarA2 Roman" stylename="YHAU68">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="68"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Roman_YHAL0.ufo" familyname="AmstelvarA2 Roman" stylename="YHAL0">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="0"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="AmstelvarA2-Roman_YHAL42.ufo" familyname="AmstelvarA2 Roman" stylename="YHAL42">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="42"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </source>
@@ -4620,6 +5402,9 @@
         <dimension name="WDSP" xvalue="267"/>
         <dimension name="XDOT" xvalue="116"/>
         <dimension name="YTEQ" xvalue="194"/>
+        <dimension name="XVAU" xvalue="54"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4659,6 +5444,9 @@
         <dimension name="WDSP" xvalue="267"/>
         <dimension name="XDOT" xvalue="116"/>
         <dimension name="YTEQ" xvalue="186"/>
+        <dimension name="XVAU" xvalue="60"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4698,6 +5486,9 @@
         <dimension name="WDSP" xvalue="100"/>
         <dimension name="XDOT" xvalue="95"/>
         <dimension name="YTEQ" xvalue="193"/>
+        <dimension name="XVAU" xvalue="50"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4737,6 +5528,9 @@
         <dimension name="WDSP" xvalue="256"/>
         <dimension name="XDOT" xvalue="64"/>
         <dimension name="YTEQ" xvalue="186"/>
+        <dimension name="XVAU" xvalue="40"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4776,6 +5570,9 @@
         <dimension name="WDSP" xvalue="198"/>
         <dimension name="XDOT" xvalue="218"/>
         <dimension name="YTEQ" xvalue="238"/>
+        <dimension name="XVAU" xvalue="44"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4815,6 +5612,9 @@
         <dimension name="WDSP" xvalue="225"/>
         <dimension name="XDOT" xvalue="218"/>
         <dimension name="YTEQ" xvalue="180"/>
+        <dimension name="XVAU" xvalue="60"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4854,6 +5654,9 @@
         <dimension name="WDSP" xvalue="156"/>
         <dimension name="XDOT" xvalue="196"/>
         <dimension name="YTEQ" xvalue="307"/>
+        <dimension name="XVAU" xvalue="50"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4893,6 +5696,9 @@
         <dimension name="WDSP" xvalue="278"/>
         <dimension name="XDOT" xvalue="64"/>
         <dimension name="YTEQ" xvalue="181"/>
+        <dimension name="XVAU" xvalue="50"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4932,6 +5738,9 @@
         <dimension name="WDSP" xvalue="122"/>
         <dimension name="XDOT" xvalue="58"/>
         <dimension name="YTEQ" xvalue="186"/>
+        <dimension name="XVAU" xvalue="34"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -4971,6 +5780,9 @@
         <dimension name="WDSP" xvalue="316"/>
         <dimension name="XDOT" xvalue="142"/>
         <dimension name="YTEQ" xvalue="145"/>
+        <dimension name="XVAU" xvalue="20"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5010,6 +5822,9 @@
         <dimension name="WDSP" xvalue="294"/>
         <dimension name="XDOT" xvalue="130"/>
         <dimension name="YTEQ" xvalue="167"/>
+        <dimension name="XVAU" xvalue="36"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5049,6 +5864,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="162"/>
         <dimension name="YTEQ" xvalue="130"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5088,6 +5906,9 @@
         <dimension name="WDSP" xvalue="270"/>
         <dimension name="XDOT" xvalue="118"/>
         <dimension name="YTEQ" xvalue="190"/>
+        <dimension name="XVAU" xvalue="52"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5127,6 +5948,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="162"/>
         <dimension name="YTEQ" xvalue="124"/>
+        <dimension name="XVAU" xvalue="24"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5166,6 +5990,9 @@
         <dimension name="WDSP" xvalue="152"/>
         <dimension name="XDOT" xvalue="140"/>
         <dimension name="YTEQ" xvalue="160"/>
+        <dimension name="XVAU" xvalue="12"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5205,6 +6032,9 @@
         <dimension name="WDSP" xvalue="256"/>
         <dimension name="XDOT" xvalue="109"/>
         <dimension name="YTEQ" xvalue="140"/>
+        <dimension name="XVAU" xvalue="22"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5244,6 +6074,9 @@
         <dimension name="WDSP" xvalue="250"/>
         <dimension name="XDOT" xvalue="264"/>
         <dimension name="YTEQ" xvalue="144"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5283,6 +6116,9 @@
         <dimension name="WDSP" xvalue="310"/>
         <dimension name="XDOT" xvalue="264"/>
         <dimension name="YTEQ" xvalue="138"/>
+        <dimension name="XVAU" xvalue="24"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5322,6 +6158,9 @@
         <dimension name="WDSP" xvalue="240"/>
         <dimension name="XDOT" xvalue="242"/>
         <dimension name="YTEQ" xvalue="224"/>
+        <dimension name="XVAU" xvalue="12"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5361,6 +6200,9 @@
         <dimension name="WDSP" xvalue="256"/>
         <dimension name="XDOT" xvalue="120"/>
         <dimension name="YTEQ" xvalue="142"/>
+        <dimension name="XVAU" xvalue="28"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5400,6 +6242,9 @@
         <dimension name="WDSP" xvalue="160"/>
         <dimension name="XDOT" xvalue="104"/>
         <dimension name="YTEQ" xvalue="140"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5439,6 +6284,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="136"/>
+        <dimension name="XVAU" xvalue="24"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5478,6 +6326,9 @@
         <dimension name="WDSP" xvalue="152"/>
         <dimension name="XDOT" xvalue="122"/>
         <dimension name="YTEQ" xvalue="140"/>
+        <dimension name="XVAU" xvalue="12"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5517,6 +6368,9 @@
         <dimension name="WDSP" xvalue="256"/>
         <dimension name="XDOT" xvalue="91"/>
         <dimension name="YTEQ" xvalue="152"/>
+        <dimension name="XVAU" xvalue="22"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5556,6 +6410,9 @@
         <dimension name="WDSP" xvalue="250"/>
         <dimension name="XDOT" xvalue="246"/>
         <dimension name="YTEQ" xvalue="155"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5595,6 +6452,9 @@
         <dimension name="WDSP" xvalue="250"/>
         <dimension name="XDOT" xvalue="246"/>
         <dimension name="YTEQ" xvalue="150"/>
+        <dimension name="XVAU" xvalue="24"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5634,6 +6494,9 @@
         <dimension name="WDSP" xvalue="150"/>
         <dimension name="XDOT" xvalue="224"/>
         <dimension name="YTEQ" xvalue="234"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5673,6 +6536,9 @@
         <dimension name="WDSP" xvalue="256"/>
         <dimension name="XDOT" xvalue="91"/>
         <dimension name="YTEQ" xvalue="146"/>
+        <dimension name="XVAU" xvalue="24"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5712,6 +6578,9 @@
         <dimension name="WDSP" xvalue="105"/>
         <dimension name="XDOT" xvalue="70"/>
         <dimension name="YTEQ" xvalue="151"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="14"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5751,6 +6620,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5790,6 +6662,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5829,6 +6704,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5868,6 +6746,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5907,6 +6788,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5946,6 +6830,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -5985,6 +6872,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6024,6 +6914,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6063,6 +6956,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6102,6 +6998,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6141,6 +7040,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6180,6 +7082,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6219,6 +7124,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6258,6 +7166,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6297,6 +7208,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6336,6 +7250,9 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
@@ -6375,6 +7292,177 @@
         <dimension name="WDSP" xvalue="320"/>
         <dimension name="XDOT" xvalue="144"/>
         <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="XVAA0" familyname="AmstelvarA2 Roman" stylename="XVAA0" filename="instances/AmstelvarA2-Roman_XVAA0.ufo">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="0"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="XVAA42" familyname="AmstelvarA2 Roman" stylename="XVAA42" filename="instances/AmstelvarA2-Roman_XVAA42.ufo">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="42"/>
+        <dimension name="YHAU" xvalue="18"/>
+        <dimension name="YHAL" xvalue="18"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="YHAA0" familyname="AmstelvarA2 Roman" stylename="YHAA0" filename="instances/AmstelvarA2-Roman_YHAA0.ufo">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="0"/>
+        <dimension name="YHAL" xvalue="0"/>
+        <dimension name="BARS" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="YHAA68" familyname="AmstelvarA2 Roman" stylename="YHAA68" filename="instances/AmstelvarA2-Roman_YHAA68.ufo">
+      <location>
+        <dimension name="GRAD" xvalue="0"/>
+        <dimension name="XOUC" xvalue="90"/>
+        <dimension name="XOLC" xvalue="85"/>
+        <dimension name="XOFI" xvalue="88"/>
+        <dimension name="YOUC" xvalue="66"/>
+        <dimension name="YOLC" xvalue="72"/>
+        <dimension name="YOFI" xvalue="56"/>
+        <dimension name="XTUC" xvalue="400"/>
+        <dimension name="XTLC" xvalue="243"/>
+        <dimension name="XTFI" xvalue="329"/>
+        <dimension name="YTUC" xvalue="750"/>
+        <dimension name="YTLC" xvalue="511"/>
+        <dimension name="YTAS" xvalue="767"/>
+        <dimension name="YTDE" xvalue="-240"/>
+        <dimension name="YTFI" xvalue="771"/>
+        <dimension name="XSHU" xvalue="104"/>
+        <dimension name="YSHU" xvalue="50"/>
+        <dimension name="XSVU" xvalue="55"/>
+        <dimension name="YSVU" xvalue="174"/>
+        <dimension name="XSHL" xvalue="74"/>
+        <dimension name="YSHL" xvalue="40"/>
+        <dimension name="XSVL" xvalue="48"/>
+        <dimension name="YSVL" xvalue="176"/>
+        <dimension name="XSHF" xvalue="129"/>
+        <dimension name="YSHF" xvalue="47"/>
+        <dimension name="XSVF" xvalue="61"/>
+        <dimension name="YSVF" xvalue="201"/>
+        <dimension name="XTTW" xvalue="5"/>
+        <dimension name="YTTL" xvalue="57"/>
+        <dimension name="YTOS" xvalue="10"/>
+        <dimension name="XUCS" xvalue="145"/>
+        <dimension name="WDSP" xvalue="320"/>
+        <dimension name="XDOT" xvalue="144"/>
+        <dimension name="YTEQ" xvalue="141"/>
+        <dimension name="XVAU" xvalue="18"/>
+        <dimension name="YHAU" xvalue="68"/>
+        <dimension name="YHAL" xvalue="42"/>
         <dimension name="BARS" xvalue="100"/>
       </location>
     </instance>
