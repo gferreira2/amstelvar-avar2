@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="1436" y="-338" type="line"/>
-      <point x="1367" y="0" type="line"/>
-      <point x="241" y="0" type="line"/>
+      <point x="1317" y="0" type="line"/>
+      <point x="291" y="0" type="line"/>
       <point x="172" y="-338" type="line"/>
       <point x="50" y="-338" type="line"/>
       <point x="60" y="108" type="line"/>
@@ -42,8 +42,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.65,1,0.35</string>
     </dict>
   </lib>
 </glyph>

@@ -29,22 +29,20 @@
       <point x="733" y="0" type="qcurve" smooth="yes"/>
       <point x="82" y="0" type="line"/>
       <point x="82" y="100" type="line"/>
-      <point x="290" y="135" type="line"/>
+      <point x="290" y="100" type="line"/>
       <point x="292" y="736" type="line"/>
-      <point x="290" y="1352" type="line"/>
+      <point x="290" y="1386" type="line"/>
       <point x="82" y="1386" type="line"/>
       <point x="82" y="1500" type="line"/>
       <point x="678" y="1500" type="line"/>
       <point x="678" y="1386" type="line"/>
-      <point x="470" y="1352" type="line"/>
+      <point x="470" y="1386" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.65,1,0.35</string>
     </dict>
   </lib>
 </glyph>

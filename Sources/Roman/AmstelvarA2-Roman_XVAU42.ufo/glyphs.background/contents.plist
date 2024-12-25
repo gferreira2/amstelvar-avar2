@@ -6,14 +6,34 @@
     <string>C_.glif</string>
     <key>Cheverticalstroke-cy</key>
     <string>C_heverticalstroke-cy.glif</string>
+    <key>De</key>
+    <string>D_e.glif</string>
+    <key>E</key>
+    <string>E_.glif</string>
+    <key>Ecyr</key>
+    <string>E_cyr.glif</string>
+    <key>G</key>
+    <string>G_.glif</string>
+    <key>Gamma</key>
+    <string>G_amma.glif</string>
+    <key>Germandbls</key>
+    <string>G_ermandbls.glif</string>
     <key>H</key>
     <string>H_.glif</string>
+    <key>R</key>
+    <string>R_.glif</string>
+    <key>S</key>
+    <string>S_.glif</string>
     <key>Soft</key>
     <string>S_oft.glif</string>
+    <key>T</key>
+    <string>T_.glif</string>
     <key>Ucyr</key>
     <string>U_cyr.glif</string>
     <key>X</key>
     <string>X_.glif</string>
+    <key>Ze</key>
+    <string>Z_e.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
     <key>manat</key>

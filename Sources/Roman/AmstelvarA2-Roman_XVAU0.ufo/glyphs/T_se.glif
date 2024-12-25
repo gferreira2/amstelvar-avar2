@@ -16,7 +16,7 @@
       <point x="1638" y="108" type="line"/>
       <point x="1648" y="-338" type="line"/>
       <point x="1526" y="-338" type="line"/>
-      <point x="1457" y="0" type="line"/>
+      <point x="1518" y="0" type="line"/>
       <point x="82" y="0" type="line"/>
       <point x="82" y="100" type="line"/>
       <point x="290" y="138" type="line"/>
@@ -38,8 +38,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.65,1,0.35</string>
     </dict>
   </lib>
 </glyph>

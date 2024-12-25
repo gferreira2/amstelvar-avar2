@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Cheverticalstroke-cy</key>
+    <string>C_heverticalstroke-cy.glif</string>
+    <key>H</key>
+    <string>H_.glif</string>
+    <key>Soft</key>
+    <string>S_oft.glif</string>
+    <key>Ucyr</key>
+    <string>U_cyr.glif</string>
+    <key>X</key>
+    <string>X_.glif</string>
+    <key>c</key>
+    <string>c.glif</string>
+    <key>cy-descendercomb</key>
+    <string>cy-descendercomb.glif</string>
+    <key>de</key>
+    <string>de.glif</string>
+    <key>de.bgr</key>
+    <string>de.bgr.glif</string>
+    <key>ecyr</key>
+    <string>ecyr.glif</string>
+    <key>germandbls</key>
+    <string>germandbls.glif</string>
+    <key>ghe.bgr</key>
+    <string>ghe.bgr.glif</string>
+    <key>ieukran</key>
+    <string>ieukran.glif</string>
+    <key>manat</key>
+    <string>manat.glif</string>
+    <key>r</key>
+    <string>r.glif</string>
+    <key>s</key>
+    <string>s.glif</string>
+    <key>sha.bgr</key>
+    <string>sha.bgr.glif</string>
+    <key>tse</key>
+    <string>tse.glif</string>
+    <key>ze</key>
+    <string>ze.glif</string>
+    <key>ze.bgr</key>
+    <string>ze.bgr.glif</string>
+  </dict>
+</plist>

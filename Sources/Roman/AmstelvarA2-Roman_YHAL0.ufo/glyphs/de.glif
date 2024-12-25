@@ -4,12 +4,12 @@
   <unicode hex="0434"/>
   <outline>
     <contour>
-      <point x="304" y="885" type="line"/>
+      <point x="307" y="920" type="line"/>
       <point x="156" y="920" type="line"/>
       <point x="156" y="1000" type="line"/>
       <point x="1112" y="1000" type="line"/>
       <point x="1112" y="920" type="line"/>
-      <point x="964" y="885" type="line"/>
+      <point x="964" y="920" type="line"/>
       <point x="962" y="500" type="line"/>
       <point x="964" y="49" type="line"/>
       <point x="794" y="49" type="line"/>
@@ -40,8 +40,6 @@
     <dict>
       <key>com.fontBureau.measurements</key>
       <dict/>
-      <key>public.markColor</key>
-      <string>0,0.65,1,0.35</string>
     </dict>
   </lib>
 </glyph>
