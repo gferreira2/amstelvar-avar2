@@ -111,13 +111,7 @@
       "XDOT": 116,
       "YTOS": 10,
       "WDSP": 267,
-      "YTEQ": 194,
-      "XVAU": 54,
-      "YHAU": 18,
-      "XVAL": 46,
-      "YHAL": 18,
-      "XVAF": 30,
-      "YHAF": 18
+      "YTEQ": 194
     },
     "opsz144_wdth125": {
       "XOUC": 86,
@@ -150,13 +144,7 @@
       "XDOT": 116,
       "YTOS": 10,
       "WDSP": 267,
-      "YTEQ": 186,
-      "XVAU": 60,
-      "YHAU": 18,
-      "XVAL": 51,
-      "YHAL": 18,
-      "XVAF": 30,
-      "YHAF": 18
+      "YTEQ": 186
     },
     "opsz144_wdth50": {
       "XOUC": 78,
@@ -189,13 +177,7 @@
       "XDOT": 95,
       "YTOS": 10,
       "WDSP": 100,
-      "YTEQ": 193,
-      "XVAU": 50,
-      "YHAU": 18,
-      "XVAL": 42,
-      "YHAL": 18,
-      "XVAF": 30,
-      "YHAF": 18
+      "YTEQ": 193
     },
     "opsz144_wght100": {
       "XOUC": 34,
@@ -228,13 +210,7 @@
       "XDOT": 64,
       "YTOS": 10,
       "WDSP": 256,
-      "YTEQ": 186,
-      "XVAU": 40,
-      "YHAU": 18,
-      "XVAL": 38,
-      "YHAL": 14,
-      "XVAF": 24,
-      "YHAF": 10
+      "YTEQ": 186
     },
     "opsz144_wght1000": {
       "XOUC": 244,
@@ -267,13 +243,7 @@
       "XDOT": 218,
       "YTOS": 13,
       "WDSP": 198,
-      "YTEQ": 238,
-      "XVAU": 44,
-      "YHAU": 18,
-      "XVAL": 48,
-      "YHAL": 18,
-      "XVAF": 28,
-      "YHAF": 18
+      "YTEQ": 238
     },
     "opsz144_wght1000_wdth125": {
       "XOUC": 246,
@@ -306,13 +276,7 @@
       "XDOT": 218,
       "YTOS": 13,
       "WDSP": 225,
-      "YTEQ": 180,
-      "XVAU": 60,
-      "YHAU": 18,
-      "XVAL": 48,
-      "YHAL": 18,
-      "XVAF": 28,
-      "YHAF": 18
+      "YTEQ": 180
     },
     "opsz144_wght1000_wdth50": {
       "XOUC": 239,
@@ -345,13 +309,7 @@
       "XDOT": 196,
       "YTOS": 9,
       "WDSP": 156,
-      "YTEQ": 307,
-      "XVAU": 50,
-      "YHAU": 18,
-      "XVAL": 34,
-      "YHAL": 14,
-      "XVAF": 20,
-      "YHAF": 18
+      "YTEQ": 307
     },
     "opsz144_wght100_wdth125": {
       "XOUC": 32,
@@ -384,13 +342,7 @@
       "XDOT": 64,
       "YTOS": 10,
       "WDSP": 278,
-      "YTEQ": 181,
-      "XVAU": 50,
-      "YHAU": 18,
-      "XVAL": 40,
-      "YHAL": 14,
-      "XVAF": 24,
-      "YHAF": 14
+      "YTEQ": 181
     },
     "opsz144_wght100_wdth50": {
       "XOUC": 28,
@@ -423,13 +375,7 @@
       "XDOT": 58,
       "YTOS": 10,
       "WDSP": 122,
-      "YTEQ": 186,
-      "XVAU": 34,
-      "YHAU": 18,
-      "XVAL": 29,
-      "YHAL": 14,
-      "XVAF": 24,
-      "YHAF": 16
+      "YTEQ": 186
     },
     "opsz24": {
       "XOUC": 90,
@@ -462,13 +408,7 @@
       "XDOT": 142,
       "YTOS": 10,
       "WDSP": 316,
-      "YTEQ": 145,
-      "XVAU": 20,
-      "YHAU": 18,
-      "XVAL": 16,
-      "YHAL": 18,
-      "XVAF": 19,
-      "YHAF": 18
+      "YTEQ": 145
     },
     "opsz36": {
       "XOUC": 86,
@@ -501,13 +441,7 @@
       "XDOT": 130,
       "YTOS": 10,
       "WDSP": 294,
-      "YTEQ": 167,
-      "XVAU": 36,
-      "YHAU": 18,
-      "XVAL": 30,
-      "YHAL": 18,
-      "XVAF": 24,
-      "YHAF": 18
+      "YTEQ": 167
     },
     "opsz8": {
       "XOUC": 112,
@@ -540,13 +474,7 @@
       "XDOT": 162,
       "YTOS": 10,
       "WDSP": 320,
-      "YTEQ": 130,
-      "XVAU": 18,
-      "YHAU": 18,
-      "XVAL": 14,
-      "YHAL": 18,
-      "XVAF": 18,
-      "YHAF": 18
+      "YTEQ": 130
     },
     "opsz84": {
       "XOUC": 84,
@@ -579,13 +507,7 @@
       "XDOT": 118,
       "YTOS": 10,
       "WDSP": 270,
-      "YTEQ": 190,
-      "XVAU": 52,
-      "YHAU": 18,
-      "XVAL": 44,
-      "YHAL": 18,
-      "XVAF": 29,
-      "YHAF": 18
+      "YTEQ": 190
     },
     "opsz8_wdth125": {
       "XOUC": 114,
@@ -618,13 +540,7 @@
       "XDOT": 162,
       "YTOS": 10,
       "WDSP": 320,
-      "YTEQ": 124,
-      "XVAU": 24,
-      "YHAU": 18,
-      "XVAL": 18,
-      "YHAL": 18,
-      "XVAF": 18,
-      "YHAF": 18
+      "YTEQ": 124
     },
     "opsz8_wdth50": {
       "XOUC": 107,
@@ -657,13 +573,7 @@
       "XDOT": 140,
       "YTOS": 10,
       "WDSP": 152,
-      "YTEQ": 160,
-      "XVAU": 12,
-      "YHAU": 18,
-      "XVAL": 8,
-      "YHAL": 18,
-      "XVAF": 18,
-      "YHAF": 18
+      "YTEQ": 160
     },
     "opsz8_wght100": {
       "XOUC": 62,
@@ -696,13 +606,7 @@
       "XDOT": 109,
       "YTOS": 10,
       "WDSP": 256,
-      "YTEQ": 140,
-      "XVAU": 22,
-      "YHAU": 18,
-      "XVAL": 22,
-      "YHAL": 14,
-      "XVAF": 20,
-      "YHAF": 14
+      "YTEQ": 140
     },
     "opsz8_wght1000": {
       "XOUC": 272,
@@ -735,13 +639,7 @@
       "XDOT": 264,
       "YTOS": 14,
       "WDSP": 250,
-      "YTEQ": 144,
-      "XVAU": 18,
-      "YHAU": 18,
-      "XVAL": 16,
-      "YHAL": 18,
-      "XVAF": 46,
-      "YHAF": 18
+      "YTEQ": 144
     },
     "opsz8_wght1000_wdth125": {
       "XOUC": 274,
@@ -774,13 +672,7 @@
       "XDOT": 264,
       "YTOS": 14,
       "WDSP": 310,
-      "YTEQ": 138,
-      "XVAU": 24,
-      "YHAU": 18,
-      "XVAL": 21,
-      "YHAL": 18,
-      "XVAF": 21,
-      "YHAF": 18
+      "YTEQ": 138
     },
     "opsz8_wght1000_wdth50": {
       "XOUC": 268,
@@ -813,13 +705,7 @@
       "XDOT": 242,
       "YTOS": 14,
       "WDSP": 240,
-      "YTEQ": 224,
-      "XVAU": 12,
-      "YHAU": 18,
-      "XVAL": 12,
-      "YHAL": 18,
-      "XVAF": 16,
-      "YHAF": 18
+      "YTEQ": 224
     },
     "opsz8_wght100_wdth125": {
       "XOUC": 64,
@@ -852,13 +738,7 @@
       "XDOT": 120,
       "YTOS": 10,
       "WDSP": 256,
-      "YTEQ": 142,
-      "XVAU": 28,
-      "YHAU": 18,
-      "XVAL": 22,
-      "YHAL": 14,
-      "XVAF": 25,
-      "YHAF": 14
+      "YTEQ": 142
     },
     "opsz8_wght100_wdth50": {
       "XOUC": 57,
@@ -891,13 +771,7 @@
       "XDOT": 104,
       "YTOS": 10,
       "WDSP": 160,
-      "YTEQ": 140,
-      "XVAU": 18,
-      "YHAU": 18,
-      "XVAL": 24,
-      "YHAL": 14,
-      "XVAF": 16,
-      "YHAF": 14
+      "YTEQ": 140
     },
     "wdth125": {
       "XOUC": 92,
@@ -930,13 +804,7 @@
       "XDOT": 144,
       "YTOS": 10,
       "WDSP": 320,
-      "YTEQ": 136,
-      "XVAU": 24,
-      "YHAU": 18,
-      "XVAL": 18,
-      "YHAL": 18,
-      "XVAF": 18,
-      "YHAF": 18
+      "YTEQ": 136
     },
     "wdth50": {
       "XOUC": 85,
@@ -969,13 +837,7 @@
       "XDOT": 122,
       "YTOS": 10,
       "WDSP": 152,
-      "YTEQ": 140,
-      "XVAU": 12,
-      "YHAU": 18,
-      "XVAL": 10,
-      "YHAL": 18,
-      "XVAF": 18,
-      "YHAF": 18
+      "YTEQ": 140
     },
     "wght100": {
       "XOUC": 40,
@@ -1008,13 +870,7 @@
       "XDOT": 91,
       "YTOS": 10,
       "WDSP": 256,
-      "YTEQ": 152,
-      "XVAU": 22,
-      "YHAU": 18,
-      "XVAL": 22,
-      "YHAL": 14,
-      "XVAF": 15,
-      "YHAF": 14
+      "YTEQ": 152
     },
     "wght1000": {
       "XOUC": 250,
@@ -1047,13 +903,7 @@
       "XDOT": 246,
       "YTOS": 14,
       "WDSP": 250,
-      "YTEQ": 155,
-      "XVAU": 18,
-      "YHAU": 18,
-      "XVAL": 16,
-      "YHAL": 18,
-      "XVAF": 16,
-      "YHAF": 18
+      "YTEQ": 155
     },
     "wght1000_wdth125": {
       "XOUC": 252,
@@ -1086,13 +936,7 @@
       "XDOT": 246,
       "YTOS": 14,
       "WDSP": 250,
-      "YTEQ": 150,
-      "XVAU": 24,
-      "YHAU": 18,
-      "XVAL": 21,
-      "YHAL": 18,
-      "XVAF": 16,
-      "YHAF": 18
+      "YTEQ": 150
     },
     "wght1000_wdth50": {
       "XOUC": 246,
@@ -1125,13 +969,7 @@
       "XDOT": 224,
       "YTOS": 14,
       "WDSP": 150,
-      "YTEQ": 234,
-      "XVAU": 18,
-      "YHAU": 18,
-      "XVAL": 12,
-      "YHAL": 18,
-      "XVAF": 16,
-      "YHAF": 22
+      "YTEQ": 234
     },
     "wght100_wdth125": {
       "XOUC": 42,
@@ -1164,13 +1002,7 @@
       "XDOT": 91,
       "YTOS": 10,
       "WDSP": 256,
-      "YTEQ": 146,
-      "XVAU": 24,
-      "YHAU": 18,
-      "XVAL": 28,
-      "YHAL": 14,
-      "XVAF": 28,
-      "YHAF": 14
+      "YTEQ": 146
     },
     "wght100_wdth50": {
       "XOUC": 35,
@@ -1203,13 +1035,7 @@
       "XDOT": 70,
       "YTOS": 10,
       "WDSP": 105,
-      "YTEQ": 151,
-      "XVAU": 18,
-      "YHAU": 18,
-      "XVAL": 18,
-      "YHAL": 14,
-      "XVAF": 26,
-      "YHAF": 14
+      "YTEQ": 151
     },
     "wght400": {
       "XOUC": 90,
@@ -1242,13 +1068,7 @@
       "XDOT": 144,
       "YTOS": 10,
       "WDSP": 320,
-      "YTEQ": 141,
-      "XVAU": 18,
-      "YHAU": 18,
-      "XVAL": 14,
-      "YHAL": 18,
-      "XVAF": 18,
-      "YHAF": 18
+      "YTEQ": 141
     },
     "XTSP-100": {
       "XOUC": 90,
