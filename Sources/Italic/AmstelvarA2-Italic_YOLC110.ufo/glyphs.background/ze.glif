@@ -2,6 +2,5 @@
 <glyph name="ze" format="2">
   <advance width="500"/>
   <outline>
-    <component base="o" xOffset="-70"/>
   </outline>
 </glyph>

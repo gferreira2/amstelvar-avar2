@@ -6,7 +6,7 @@ import os, glob, time
 from xTools4.modules.glyphSetProofer import GlyphSetProofer
 
 familyName      = 'AmstelvarA2'
-subFamily       = ['Roman', 'Italic'][0]
+subFamily       = ['Roman', 'Italic'][1]
 proofsFolder    = os.path.dirname(os.path.dirname(os.getcwd()))
 pdfsFolder      = os.path.join(proofsFolder, 'PDF')
 baseFolder      = os.path.dirname(proofsFolder)

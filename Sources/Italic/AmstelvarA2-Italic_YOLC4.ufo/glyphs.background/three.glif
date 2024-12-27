@@ -3,55 +3,5 @@
   <advance width="936"/>
   <unicode hex="0033"/>
   <outline>
-    <contour>
-      <point x="-114" y="193" type="qcurve" smooth="yes"/>
-      <point x="-114" y="269"/>
-      <point x="-29" y="350"/>
-      <point x="36" y="350" type="qcurve"/>
-      <point x="50" y="342" type="line"/>
-      <point x="49" y="335"/>
-      <point x="49" y="325"/>
-      <point x="48" y="313" type="qcurve"/>
-      <point x="48" y="156"/>
-      <point x="128" y="-21"/>
-      <point x="272" y="-21" type="qcurve" smooth="yes"/>
-      <point x="449" y="-21"/>
-      <point x="663" y="243"/>
-      <point x="663" y="454" type="qcurve" smooth="yes"/>
-      <point x="663" y="619"/>
-      <point x="516" y="812"/>
-      <point x="333" y="834" type="qcurve" smooth="yes"/>
-      <point x="258" y="843" type="line"/>
-      <point x="258" y="849" type="line"/>
-      <point x="308" y="856" type="line" smooth="yes"/>
-      <point x="474" y="879"/>
-      <point x="709" y="1060"/>
-      <point x="709" y="1214" type="qcurve" smooth="yes"/>
-      <point x="709" y="1353"/>
-      <point x="618" y="1493"/>
-      <point x="519" y="1493" type="qcurve" smooth="yes"/>
-      <point x="406" y="1493"/>
-      <point x="216" y="1386"/>
-      <point x="138" y="1292" type="qcurve"/>
-      <point x="135" y="1296" type="line"/>
-      <point x="208" y="1397"/>
-      <point x="432" y="1532"/>
-      <point x="584" y="1532" type="qcurve" smooth="yes"/>
-      <point x="727" y="1532"/>
-      <point x="897" y="1370"/>
-      <point x="897" y="1229" type="qcurve" smooth="yes"/>
-      <point x="897" y="1087"/>
-      <point x="657" y="880"/>
-      <point x="503" y="852" type="qcurve"/>
-      <point x="502" y="846" type="line"/>
-      <point x="635" y="830"/>
-      <point x="851" y="648"/>
-      <point x="851" y="478" type="qcurve" smooth="yes"/>
-      <point x="851" y="255"/>
-      <point x="459" y="-33"/>
-      <point x="249" y="-33" type="qcurve" smooth="yes"/>
-      <point x="62" y="-33"/>
-      <point x="-114" y="95"/>
-    </contour>
   </outline>
 </glyph>
