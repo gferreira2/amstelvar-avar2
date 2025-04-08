@@ -327,9 +327,9 @@
     "YSVL": {
       "direction": "y",
       "glyph 1": "r",
-      "point 1": "14",
+      "point 1": "15",
       "glyph 2": "r",
-      "point 2": "13",
+      "point 2": "16",
       "parent": "YSVA",
       "description": "Y vertical serif lowercase"
     },

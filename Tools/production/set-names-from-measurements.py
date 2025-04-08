@@ -11,7 +11,7 @@ from xTools4.modules.measurements import FontMeasurements
 # --------
 
 familyName       = 'AmstelvarA2'
-subFamilyName    = ['Roman', 'Italic'][1]
+subFamilyName    = ['Roman', 'Italic'][0]
 baseFolder       = os.path.dirname(os.path.dirname(os.getcwd()))
 sourcesFolder    = os.path.join(baseFolder, 'Sources', subFamilyName)
 measurementsPath = os.path.join(sourcesFolder, 'measurements.json')
