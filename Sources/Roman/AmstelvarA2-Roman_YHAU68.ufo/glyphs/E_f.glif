@@ -22,24 +22,24 @@
 		<contour>
 			<point x="596" y="-24" type="line"/>
 			<point x="596" y="85" type="line"/>
-			<point x="774" y="119" type="line"/>
+			<point x="774" y="220" type="line"/>
 			<point x="777" y="260" type="line"/>
 			<point x="785" y="260" type="line"/>
 			<point x="787" y="745" type="line"/>
 			<point x="785" y="1245" type="line"/>
 			<point x="777" y="1246" type="line"/>
-			<point x="774" y="1377" type="line"/>
+			<point x="774" y="1276" type="line"/>
 			<point x="596" y="1411" type="line"/>
 			<point x="596" y="1520" type="line"/>
 			<point x="1122" y="1520" type="line"/>
 			<point x="1122" y="1411" type="line"/>
-			<point x="944" y="1377" type="line"/>
+			<point x="944" y="1276" type="line"/>
 			<point x="941" y="1246" type="line"/>
 			<point x="933" y="1246" type="line"/>
 			<point x="931" y="745" type="line"/>
 			<point x="933" y="261" type="line"/>
 			<point x="941" y="260" type="line"/>
-			<point x="944" y="119" type="line"/>
+			<point x="944" y="220" type="line"/>
 			<point x="1122" y="85" type="line"/>
 			<point x="1122" y="-24" type="line"/>
 		</contour>
