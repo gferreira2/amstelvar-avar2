@@ -21,24 +21,24 @@
 		</contour>
 		<contour>
 			<point x="380" y="531" type="line"/>
-			<point x="380" y="651" type="line"/>
-			<point x="840" y="645" type="line"/>
-			<point x="1280" y="651" type="line"/>
+			<point x="380" y="653" type="line"/>
+			<point x="840" y="647" type="line"/>
+			<point x="1280" y="653" type="line"/>
 			<point x="1280" y="531" type="line"/>
 			<point x="840" y="531" type="line"/>
 		</contour>
 		<contour>
 			<point x="1943" y="328" type="qcurve" smooth="yes"/>
-			<point x="1943" y="435"/>
-			<point x="1753" y="540"/>
-			<point x="1593" y="540" type="qcurve" smooth="yes"/>
-			<point x="1379" y="540" type="line"/>
-			<point x="1370" y="522" type="line"/>
+			<point x="1943" y="483"/>
+			<point x="1753" y="542"/>
+			<point x="1593" y="541" type="qcurve" smooth="yes"/>
+			<point x="1379" y="541" type="line"/>
+			<point x="1370" y="523" type="line"/>
 			<point x="1370" y="129" type="line"/>
 			<point x="1404" y="108" type="line"/>
 			<point x="1591" y="108" type="line" smooth="yes"/>
 			<point x="1762" y="108"/>
-			<point x="1943" y="223"/>
+			<point x="1943" y="159"/>
 		</contour>
 		<contour>
 			<point x="982" y="0" type="line"/>

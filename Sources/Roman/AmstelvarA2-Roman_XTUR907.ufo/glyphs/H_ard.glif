@@ -32,11 +32,11 @@
 			<point x="882" y="130" type="line"/>
 			<point x="916" y="108" type="line"/>
 			<point x="1246" y="108" type="line" smooth="yes"/>
-			<point x="1533" y="108"/>
+			<point x="1417" y="108"/>
 			<point x="1838" y="304"/>
 			<point x="1838" y="473" type="qcurve" smooth="yes"/>
 			<point x="1838" y="628"/>
-			<point x="1518" y="788"/>
+			<point x="1410" y="788"/>
 			<point x="1250" y="788" type="qcurve" smooth="yes"/>
 		</contour>
 	</outline>

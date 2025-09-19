@@ -6474,11 +6474,11 @@
         "direction": "y"
       },
       "45 2": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "9 39": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "0 17": {
@@ -6880,7 +6880,7 @@
         "direction": "y"
       },
       "18 4": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "0 16": {
@@ -7401,7 +7401,7 @@
         "direction": "y"
       },
       "38 11": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "31 25": {
@@ -7590,144 +7590,7 @@
       }
     },
     "Kadescender": {},
-    "Zhedescender": {
-      "2 11": {
-        "name": "XOUC",
-        "direction": "x"
-      },
-      "25 26": {
-        "name": "XOUC",
-        "direction": "a"
-      },
-      "43 50": {
-        "name": "XOUC",
-        "direction": "a"
-      },
-      "24 16": {
-        "name": "YOUC",
-        "direction": "y"
-      },
-      "33 41": {
-        "name": "YOUC",
-        "direction": "y"
-      },
-      "17 22": {
-        "name": "YOUC",
-        "direction": "x"
-      },
-      "35 40": {
-        "name": "YOUC",
-        "direction": "x"
-      },
-      "44 2": {
-        "name": "XTUC",
-        "direction": "x"
-      },
-      "11 31": {
-        "name": "XTUC",
-        "direction": "x"
-      },
-      "47 37": {
-        "name": "YTUC",
-        "direction": "y"
-      },
-      "36 35": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "40 39": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "5 4": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "9 8": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "18 17": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "22 21": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "48 49": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "44 45": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "1 2": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "11 12": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "30 31": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "36 37": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "39 38": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "5 6": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "8 7": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "18 19": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "21 20": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "47 48": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "46 45": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "0 1": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "13 12": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "29 30": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "54 53": {
-        "name": "XSVU",
-        "direction": "x"
-      },
-      "53 52": {
-        "name": "YSVU",
-        "direction": "y"
-      }
-    },
+    "Zhedescender": {},
     "El.bgr": {},
     "Hastroke-cy": {
       "10 15": {
@@ -12707,12 +12570,12 @@
         "name": "YOUC",
         "direction": "y"
       },
-      "26 20": {
+      "11 33": {
         "name": "XTUC",
         "direction": "x"
       },
-      "11 33": {
-        "name": "XTUC",
+      "26 20": {
+        "name": "XTUR",
         "direction": "x"
       },
       "0 6": {
@@ -12818,15 +12681,15 @@
         "direction": "y"
       },
       "39 34": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "29 17": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "29 24": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "32 21": {
@@ -12967,7 +12830,7 @@
         "name": "YQUC",
         "direction": "y"
       },
-      "37 17": {
+      "18 17": {
         "name": "YQUC",
         "direction": "y"
       }
@@ -13100,7 +12963,7 @@
         "direction": "x"
       },
       "6 0": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "32 45": {
@@ -17066,7 +16929,7 @@
         "direction": "y"
       },
       "22 8": {
-        "name": "XTUC",
+        "name": "XTUR",
         "direction": "x"
       },
       "18 37": {
@@ -19217,6 +19080,8 @@
     "Eta": {},
     "Iota": {},
     "Iotatonos": {},
-    "Nu": {}
+    "Nu": {},
+    "Zedescendercyr": {},
+    "Je": {}
   }
 }
